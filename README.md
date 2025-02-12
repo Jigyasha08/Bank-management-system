@@ -53,10 +53,6 @@ Follow the on-screen prompts to navigate and use the system.
 
 If you would like to contribute to this project, please open an issue or submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was inspired by the need for a simple banking management system for educational purposes.
